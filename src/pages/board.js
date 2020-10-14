@@ -42,4 +42,5 @@ class Board extends React.Component {
     );
   }
 }
-Export default Board
+
+export default Board;
