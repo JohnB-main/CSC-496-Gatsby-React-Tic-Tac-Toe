@@ -1,26 +1,21 @@
 import React from 'react'
-import ReactDOM from 'react-dom';
 import './style.css';
 import Board from './board.js';
 import Game from './game.js';
 
 
-class ShoppingList extends React.Component {
+class GameTest extends React.Component {
   render() {
     return (
       <div className="shopping-list">
-        <h1>Shopping List for {this.props.name}</h1>
-        <ul>
-          <li>Instagram</li>
-          <li>WhatsApp</li>
-          <li>Oculus</li>
-        </ul>
+        <h1>Game Testing {this.props.name}</h1>
+        
       </div>
     );
   }
 }
 
-
+export default GameTest
 //// board class 
 //import React from 'react'
 //import ReactDOM from 'react-dom';
