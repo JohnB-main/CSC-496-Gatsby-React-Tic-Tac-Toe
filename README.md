@@ -18,6 +18,7 @@ The purpose was to learn how to make tests and import a react app to gatsby.
 
 ## Technologies
 React
+
 gatsby
 
 
