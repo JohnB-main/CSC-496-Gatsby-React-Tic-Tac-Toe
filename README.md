@@ -1,6 +1,7 @@
 # Gatsby Tic Tac Toe with Testing
 
 Tic Tac Toe (TTT) in gatsby with testing in enzyme and Jest
+
 Another assignment for CSC 496
 
 ### Outline
