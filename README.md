@@ -1,3 +1,32 @@
+# Gatsby Tic Tac Toe with Testing
+
+Tic Tac Toe (TTT) in gatsby with testing in enzyme and Jest
+Another assignment for CSC 496
+
+### Outline
+* ### Introduction
+* ### Technologies
+* ### Operation
+
+
+
+## Purpose
+After following a tutorial to make TTT in react, I was assigned to convert it to a gatsby app and add testing in enzyme and jest. 
+
+The purpose was to learn how to make tests and import a react app to gatsby.
+
+
+## Technologies
+React
+gatsby
+
+
+## Setup
+Import this repo over the default gatsby application (hello world)
+open the console and run the desired command from the options below (normally "gatsby develop")
+
+# Below is the auto generated readme portion of a new gatsby app
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
